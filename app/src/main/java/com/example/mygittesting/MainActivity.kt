@@ -8,8 +8,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
+
+
 //bhBVJHCHJH jknkjnkjnC
 
-        //Hello WorldKJDJkvjjkkjnbvjhb3bbioijq
+        //Hello WorldKJDJkvjjkkjnbmnjkkjvjhb3bbioijq
     }
 }
